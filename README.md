@@ -1,2 +1,2 @@
-# buzzfeed-quz-clone
+# buzzfeed-clone
  
